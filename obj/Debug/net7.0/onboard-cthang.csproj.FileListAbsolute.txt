@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\onboard-cthang\bin\Debug\net7.0\onboard-cthang.exe
+C:\Users\LENOVO\Desktop\onboard-cthang\bin\Debug\net7.0\onboard-cthang.deps.json
+C:\Users\LENOVO\Desktop\onboard-cthang\bin\Debug\net7.0\onboard-cthang.runtimeconfig.json
+C:\Users\LENOVO\Desktop\onboard-cthang\bin\Debug\net7.0\onboard-cthang.dll
+C:\Users\LENOVO\Desktop\onboard-cthang\bin\Debug\net7.0\onboard-cthang.pdb
+C:\Users\LENOVO\Desktop\onboard-cthang\obj\Debug\net7.0\onboard-cthang.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\onboard-cthang\obj\Debug\net7.0\onboard-cthang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\onboard-cthang\obj\Debug\net7.0\onboard-cthang.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\onboard-cthang\obj\Debug\net7.0\onboard-cthang.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\onboard-cthang\obj\Debug\net7.0\onboard-cthang.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\onboard-cthang\obj\Debug\net7.0\onboard-cthang.dll
+C:\Users\LENOVO\Desktop\onboard-cthang\obj\Debug\net7.0\refint\onboard-cthang.dll
+C:\Users\LENOVO\Desktop\onboard-cthang\obj\Debug\net7.0\onboard-cthang.pdb
+C:\Users\LENOVO\Desktop\onboard-cthang\obj\Debug\net7.0\onboard-cthang.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\onboard-cthang\obj\Debug\net7.0\ref\onboard-cthang.dll
